@@ -1,0 +1,170 @@
+{
+  "brochure": "Brochure PDF",
+  "freeQuote": "Devis Gratuit",
+  "email": "youremail@gmail.com",
+  "phone": "+212 660 60 60 50",
+  "title": "Développer votre Potentiel Digital Avec BAHYSOFT",
+  "subtitles": 
+    "Notre vaste expérience, notre processus d'évaluation et de révision des meilleurs systèmes de point de vente nous permettent de fournir un point de responsabilité unique pour le matériel, les logiciels et l'assistance entièrement personnalisés en fonction des besoins de votre entreprise."
+  ,
+  "button": "PLUS",
+  "posSection": {
+    "title": "SYSTÈME DE POINT DE VENTE",
+    "subtitle": "QUI AIDE VOTRE ENTREPRISE À RÉUSSIR",
+    "description": "Améliorez votre entreprise et obtenez un contrôle total avec notre solution de point de vente intelligent. Gérez vos ventes,votre inventaire et vos employés en toute simplicité, engagez vos clients et augmentez vos revenus.",
+    "featuresSection": {
+      "title": "Un point de vente pour tous vos produits",
+      "items": [
+        "Point De Vente",
+        "Paiement",
+        "Gestion des Stocks",
+        "Gestion Des Employés",
+        "Intégrations",
+        "Analyse Des Ventes"
+      ],
+      "featureData" :[
+        {
+          "image": "/images/feature-image1.png",
+          "title": "Point de vente",
+          "subtitle": "Transformez votre smartphone ou votre tablette en un point de vente facile à utiliser",
+          "features": [
+            "Issue printed or electronic receipts",
+            "Apply discounts and issue refunds",
+            "Keep recording sales even when offline",
+            "Connect a receipt printer, barcode scanner, and cash drawer",
+            "Connect Loyverse Customer Display app"
+          ]
+        },
+        {
+          "image": "/images/feature-image2.jfif",
+          "title": "Paiement",
+          "subtitle": "Gérez vos paiements de manière efficace et sécurisée",
+          "features": [
+            "Accept various payment methods",
+            "Process credit card payments",
+            "Manage cash transactions",
+            "Handle split payments",
+            "Generate payment reports"
+          ]
+        },
+        {
+          "image": "/images/feature-image3.jfif",
+          "title": "Gestion des stocks",
+          "subtitle": "Optimisez votre inventaire pour une meilleure gestion",
+          "features": [
+            "Track inventory in real-time",
+            "Set up low stock alerts",
+            "Manage multiple locations",
+            "Generate inventory reports",
+            "Easily add and edit products"
+          ]
+        },
+        {
+          "image": "/images/feature-image4.jfif",
+          "title": "Gestion des employés",
+          "subtitle": "Gérez efficacement votre équipe et leurs performances",
+          "features": [
+            "Track employee hours",
+            "Manage employee permissions",
+            "Monitor individual sales performance",
+            "Schedule shifts",
+            "Generate employee reports"
+          ]
+        },
+        {
+          "image": "/images/feature-image5.png",
+          "title": "Intégrations",
+          "subtitle": "Connectez votre système à d'autres outils essentiels",
+          "features": [
+            "Integrate with accounting software",
+            "Connect to e-commerce platforms",
+            "Sync with CRM systems",
+            "Link to loyalty programs",
+            "Integrate with marketing tools"
+          ]
+        },
+        {
+          "image": "/images/feature-image6.png",
+          "title": "Analyse des ventes",
+          "subtitle": "Obtenez des insights précieux pour améliorer vos performances",
+          "features": [
+            "Generate detailed sales reports",
+            "Analyze customer behavior",
+            "Track best-selling items",
+            "Monitor sales trends",
+            "Forecast future sales"
+          ]
+        }
+      ]
+    }
+  },
+  "features": {
+    "cards" : [
+      {
+        "image": "/images/feature-icons/icon1.png",
+        "title": "Point de vente au détail",
+        "description": "Pour les magasins de détail, y compris les magasins de baskets, les magasins d'électronique, les magasins d'alcools, les magasins de vêtements et bien plus encore. Processus de vente transparent, gestion des stocks facile."
+      },
+      {
+        "image": "/images/feature-icons/icon2.png",
+        "title": "Point de vente Pour restaurants",
+        "description": "Pour les restaurants, les services de restauration rapide et les bars qui ont besoin d'une gestion transparente des menus, des employés et des tables. Possibilité de gérer facilement les éléments du menu."
+      },
+      {
+        "image": "/images/feature-icons/icon3.png",
+        "title": "Point de vente pour salon",
+        "description": "Pour les salons de coiffure, de manucure et de spa. Gestion intuitive des opérations. Configurez facilement des rendez-vous, fournissez des alertes automatisées et intégrez-les à votre site Web. Optimisé pour votre salon de coiffure."
+      },
+      {
+        "image": "/images/feature-icons/icon4.png",
+        "title": "Point de vente pour supermarché",
+        "description": "Pour les épiceries et les supermarchés qui nécessitent des paiements rapides et précis. Implémentez facilement des balances numériques pour une pesée plus rapide et un processus de vente simplifié pour une expérience de paiement plus rapide."
+      }
+    ]
+  },
+  "testimonials":[
+    {
+      "clientName": "Alex Wilson",
+      "testimonial": "Bahysoft's service is outstanding. They helped me boost my business with their POS system. Highly recommended!",
+      "profession": "Entrepreneur",
+      "rating": 5,
+      "imageSrc": "/images/person.jfif"
+    },
+    {
+      "clientName": "Marie Dupont",
+      "testimonial": "Very happy with the results! The team is knowledgeable and offers excellent customer support.",
+      "profession": "Marketing Manager",
+      "rating": 4,
+      "imageSrc": "/images/person.jfif"
+    },
+    {
+      "clientName": "John Doe",
+      "testimonial": "A great experience from start to finish. Their platform is user-friendly and effective.",
+      "profession": "Software Engineer",
+      "rating": 4.5,
+      "imageSrc": "/images/person.jfif"
+    }
+  ],
+  "stats":[
+    {
+      "icon": "/images/stats-icons/cup.png",
+      "name": "Haute qualité",
+      "description": "Fabriqué à partir des meilleurs matériaux disponibles"
+    },
+    {
+      "icon": "/images/stats-icons/guaranteed.png",
+      "name": "Garantie sur le produit",
+      "description": "Garantie jusqu'à plus de 6 mois, avec un suivi périodique de notre équipe"
+    },
+    {
+      "icon": "/images/stats-icons/delivery.png",
+      "name": "Livraison gratuite",
+      "description": "Pour toute commande plus de 50$, livraison gratuite dans toutes les villes"
+    },
+    {
+      "icon": "/images/stats-icons/customer-support.png",
+      "name": "Assistance 24h/7j",
+      "description": "Nous répondons immédiatement à toutes vos demandes et problèmes"
+    }
+  ]
+}
