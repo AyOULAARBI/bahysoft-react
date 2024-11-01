@@ -81,18 +81,18 @@ const Nav = () => {
                   <link.icon />
                   {link.label}
                   {link.sublinks && <ChevronDown size={16} className="ml-1" />}
-                </span> : <Link href={`${link.link}`} className="flex items-center gap-2 text-blue-800 
-                hover:text-blue-500 pr-2" >
+                </span> : <Link to={`${link.link}`} className="flex items-center gap-2 text-blue-800 
+                hover:text-blue-500 " >
                   <link.icon />
                   {link.label}
                   {link.sublinks && <ChevronDown size={16} className="ml-1" />}
                 </Link>
                 }
                 {link.sublinks && <div className="hidden absolute  transition-all duration-500 ease-in-out delay-100 bg-white
-                 text-gray-500 text-sm border-b-4 border-blue-800 rounded-b py-2 group-hover:flex 
+                 text-gray-500 text-sm border-b-4 border-blue-800 rounded-b pt-2 group-hover:flex 
                  flex-col w-[150px] ">
                   {link.sublinks.map((sublink, i) => (
-                    <Link href={sublink.link} key={sublink.label} 
+                    <Link to={sublink.link} key={sublink.label} 
                     className={`px-4 py-2 hover:bg-slate-100 ${i + 1 < link.sublinks.length && 'border-b-2'}`} >
                       {sublink.label}</Link>))}
                 </div>}
